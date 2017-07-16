@@ -1,0 +1,13 @@
+{
+   "Name": "DangHeccinZoom",
+   "Author": "p0isonedpanda",
+   "Version": {
+      "MajorVersion": 1,
+      "MinorVersion": 0,
+      "PatchVersion": 0,
+      "Build": null
+   },
+   "Description": "A simple mod that allows you to do a dang heccin zoom when holding space.",
+   "UniqueID": "p0isonedpanda.DangHeccinZoom",
+   "EntryDll": "DangHeccinZoom.dll"
+}
